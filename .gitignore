@@ -16,7 +16,7 @@ vipclient-*
 compile_commands.json
 .clangd
 Pipfile
-
+*.tar.gz
 # python-package
 /dist
 *.egg-info
