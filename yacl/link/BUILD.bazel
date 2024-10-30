@@ -118,6 +118,7 @@ yacl_cc_library(
         "//yacl/link/algorithm:broadcast",
         "//yacl/link/algorithm:gather",
         "//yacl/link/algorithm:scatter",
+        "//yacal/link/transport/blackbox_interconnect:mock_transport",
     ],
 )
 
